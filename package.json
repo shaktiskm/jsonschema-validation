@@ -1,0 +1,28 @@
+{
+  "name": "jsonschema-validation",
+  "version": "1.0.0",
+  "description": "Json Schema Validation App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaktiskm/jsonschema-validation.git"
+  },
+  "keywords": [
+    "Node.js",
+    "jsonschema"
+  ],
+  "dependencies": {
+    "body-parser": "^1.13.1",
+    "express": "^4.13.0",
+    "jsonschema": "^1.0.1"
+  },
+  "author": "Shakti Mishra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaktiskm/jsonschema-validation/issues"
+  },
+  "homepage": "https://github.com/shaktiskm/jsonschema-validation#readme"
+}
